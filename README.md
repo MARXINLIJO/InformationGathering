@@ -20,7 +20,6 @@ Investigate on the various categories of tools as follows:
 ### Step 3:
 Open terminal/browser and try execute necessary commands/use url to perform information gathering
 
-
 ## OUTPUT:
 ## WHOIS
 ![Screenshot 2024-03-26 040212](https://github.com/MARXINLIJO/InformationGathering/assets/145742540/81dcb147-1fd4-429a-8f43-5ce810c11167)
@@ -33,6 +32,14 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ## WHATWEB
 ![image](https://github.com/MARXINLIJO/InformationGathering/assets/145742540/dec7194b-ebfa-43d8-b6c4-d1ed83268117)
+![image](https://github.com/MARXINLIJO/InformationGathering/assets/145742540/94b2bd7c-ecf2-4421-8a53-10e1c056b1aa)
+## HTTP PRINT
+![image](https://github.com/MARXINLIJO/InformationGathering/assets/145742540/096fef9c-cd53-40cb-84b5-dfac53e48830)
+
+## TRACEROUTE
+![image](https://github.com/MARXINLIJO/InformationGathering/assets/145742540/e2d0690b-d380-4bc7-bff7-f74a90c70479)
+![image](https://github.com/MARXINLIJO/InformationGathering/assets/145742540/4eb77ebc-5fd0-4130-a363-27a4fb3e55e4)
+![image](https://github.com/MARXINLIJO/InformationGathering/assets/145742540/02b48090-e2f3-4b51-b6f5-9121b2fda8a6)
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
